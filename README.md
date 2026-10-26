@@ -1,9 +1,10 @@
 # José Eduardo Moura Cardozo
 
-**Governança de TI · GRC · Gestão de Serviços · Segurança da Informação**
+Portfólio de projetos autorais, modelos conceituais e documentação técnica voltados à estruturação de práticas de governança, gestão de serviços, riscos, controles, compliance e melhoria contínua em Tecnologia da Informação.
 
-Portfólio de projetos autorais, modelos conceituais e documentação técnica voltados à governança, gestão de serviços, riscos, controles, compliance, segurança da informação e melhoria contínua.
+---
 
+# Projeto em destaque
 ---
 
 # Projeto em destaque
