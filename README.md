@@ -5,9 +5,6 @@ Portfólio de projetos autorais, modelos conceituais e documentação técnica v
 ---
 
 # Projeto em destaque
----
-
-# Projeto em destaque
 
 ## Programa Integrado de Governança, Serviços e Segurança de TI
 
