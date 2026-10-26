@@ -1,36 +1,68 @@
 # José Eduardo Moura Cardozo
 
-Portfólio de projetos autorais, modelos conceituais e documentação técnica relacionados à governança, gestão de serviços, riscos, controles, compliance, segurança da informação e melhoria contínua.
+**Governança de TI · GRC · Gestão de Serviços · Segurança da Informação**
+
+Portfólio de projetos autorais, modelos conceituais e documentação técnica voltados à governança, gestão de serviços, riscos, controles, compliance, segurança da informação e melhoria contínua.
+
+---
+
+# Projeto em destaque
+
+## Programa Integrado de Governança, Serviços e Segurança de TI
+
+**SGS / SGSI · Projeto autoral e conceitual**
+
+Uma proposta integrada para estruturar práticas de governança de TI, gestão de serviços e segurança da informação, conectando arquitetura, processos, riscos, controles, indicadores e planejamento de implantação.
+
+### Visão geral do projeto
+
+O projeto organiza um modelo de referência que pode ser adaptado a organizações de diferentes portes e níveis de maturidade, considerando suas necessidades, prioridades e restrições.
+
+### Escopo e entregáveis
+
+| Domínio | Conteúdo |
+|---|---|
+| Arquitetura e governança | Arquitetura integrada e modelo de governança |
+| Planejamento | Roadmap de implantação, ondas e Quality Gates |
+| Processos de TI | Estruturação de dez processos |
+| Riscos e controles | Modelo de governança, riscos e controles internos |
+| Indicadores | Catálogo de indicadores de desempenho |
+| Documentação | Biblioteca central de documentos de referência |
+
+### Acesse o projeto
+
+**[→ EXPLORAR O REPOSITÓRIO SGS / SGSI NO GITHUB](https://github.com/admjcardozo/governanca-e-processos-ti)**
+
+> **Natureza do projeto:** iniciativa autoral e conceitual desenvolvida para demonstrar conhecimento, organização documental e estruturação metodológica. Não representa declaração de implantação ou certificação em uma organização real.
 
 ---
 
 ## Áreas de conhecimento
 
-- **Governança e GRC:** governança corporativa e de TI, gestão de riscos, compliance e controles internos.
-- **Segurança da informação:** sistemas de gestão de segurança, implementação de controles e auditoria.
-- **Gestão de serviços:** ITIL, processos de TI, gestão de incidentes, problemas, mudanças e níveis de serviço.
-- **Governança de processos:** arquitetura de processos, padronização, indicadores e melhoria contínua.
-- **Tecnologias emergentes:** governança de inteligência artificial, ciência de dados, cloud e segurança em ambientes digitais.
+### Governança, riscos e compliance
+- Governança corporativa e de TI.
+- Gestão de riscos e controles internos.
+- Compliance e conformidade.
+- Estruturação de modelos de governança.
 
----
+### Segurança da informação
+- Sistemas de gestão de segurança da informação.
+- Implementação de controles de segurança.
+- Auditoria e avaliação de controles.
+- Continuidade e proteção dos serviços de TI.
 
-## Projeto em destaque
+### Gestão de serviços e processos
+- ITIL e gestão de serviços de TI.
+- Gestão de incidentes, problemas e mudanças.
+- Gestão de níveis de serviço e catálogo de serviços.
+- Gestão de ativos, fornecedores, demanda e capacidade.
+- Padronização de processos e melhoria contínua.
 
-### Programa Integrado de Governança, Serviços e Segurança de TI — SGS / SGSI
-
-Projeto autoral e conceitual que propõe um modelo integrado de governança de TI, gestão de serviços e segurança da informação.
-
-**Escopo do projeto**
-- Arquitetura integrada e modelo de governança.
-- Roadmap de implantação, ondas e Quality Gates.
-- Estruturação de dez processos de TI.
-- Modelo de governança, riscos e controles.
-- Catálogo de indicadores de desempenho.
-- Biblioteca de documentos de referência.
-
-[**Acessar o repositório do projeto →**](https://github.com/admjcardozo/governanca-e-processos-ti)
-
-> Projeto conceitual desenvolvido para demonstrar conhecimento e estruturação metodológica. Não representa declaração de implantação ou certificação em uma organização real.
+### Desempenho e tecnologias emergentes
+- Indicadores de desempenho e KPIs.
+- Gestão por processos e ciclo PDCA.
+- Ciência de dados e inteligência artificial.
+- Governança de IA, cloud e segurança digital.
 
 ---
 
@@ -38,7 +70,7 @@ Projeto autoral e conceitual que propõe um modelo integrado de governança de T
 
 - **MBA em Governança, Riscos e Compliance (GRC)** — Faculdade FaCiencia.
 - **Pós-Graduação em Ciência de Dados e Inteligência Artificial** — UNINTER.
-- **MBA Executivo em Gestão Estratégica, Inovação e Conhecimento** — ESAB.
+- **MBA Executivo em Gestão Estratégica, Inovação e Conhecimento** — Escola Superior Aberta do Brasil (ESAB).
 - **Bacharelado em Administração** — Faculdades Equipe.
 - **Técnico em Informática** — QI Escola de Educação Profissional.
 
@@ -87,9 +119,9 @@ Projeto autoral e conceitual que propõe um modelo integrado de governança de T
 
 ## Desenvolvimento profissional em andamento
 
-- PSM I — Professional Scrum Master I.
-- PSPO I — Professional Scrum Product Owner I.
-- EXIN DevOps Professional.
+- **PSM I** — Professional Scrum Master I.
+- **PSPO I** — Professional Scrum Product Owner I.
+- **EXIN DevOps Professional**.
 
 *Os itens desta seção representam estudos e preparação em andamento, não certificações concluídas.*
 
@@ -97,7 +129,13 @@ Projeto autoral e conceitual que propõe um modelo integrado de governança de T
 
 ## Sobre este portfólio
 
-Este espaço reúne projetos autorais, modelos conceituais e documentação técnica voltados à estruturação de práticas de governança, gestão de serviços, riscos, controles e segurança da informação.
+Este perfil reúne projetos autorais, modelos conceituais e documentação técnica relacionados à governança de TI, gestão de serviços, riscos, controles, segurança da informação e melhoria contínua.
 
-O conteúdo é desenvolvido progressivamente, com foco em organização, rastreabilidade, clareza documental e melhoria contínua.
+O conteúdo é desenvolvido progressivamente, com foco em:
+
+- Organização e clareza documental.
+- Estruturação metodológica.
+- Rastreabilidade de informações.
+- Planejamento e integração de processos.
+- Demonstração prática de conhecimentos por meio de projetos documentados.
 
