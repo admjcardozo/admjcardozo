@@ -12,6 +12,8 @@ Dois projetos complementares que demonstram a aplicação estruturada de conheci
 
 ### 1. Programa Integrado de Governança, Serviços e Segurança de TI
 
+![Capa do projeto de Governança, Serviços e Segurança de TI](https://raw.githubusercontent.com/admjcardozo/governanca-e-processos-ti/main/assets/capa-projeto.svg)
+
 **Governança de TI · Gestão de Serviços · Processos · Indicadores**
 
 Modelo conceitual que integra estratégia, operação, riscos, compliance e melhoria contínua em uma arquitetura de referência adaptável a organizações de diferentes portes e níveis de maturidade.
@@ -27,6 +29,8 @@ Modelo conceitual que integra estratégia, operação, riscos, compliance e melh
 **[Acessar o repositório e explorar a documentação →](https://github.com/admjcardozo/governanca-e-processos-ti)**
 
 ### 2. Guia Técnico de Implementação do SGSI — ISO/IEC 27001:2022
+
+![Capa do guia técnico de implementação do SGSI](https://raw.githubusercontent.com/admjcardozo/guia-implementacao-sgsi-iso27001/main/assets/capa-projeto.svg)
 
 **Segurança da Informação · Gestão de Riscos · Controles · Auditoria**
 
