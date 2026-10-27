@@ -26,7 +26,9 @@ Modelo conceitual que integra estratégia, operação, riscos, compliance e melh
 - Catálogo de indicadores para acompanhamento executivo e operacional.
 - Documentação de referência organizada por domínios.
 
-**[Acessar o repositório e explorar a documentação →](https://github.com/admjcardozo/governanca-e-processos-ti)**
+[![Explorar repositório](https://img.shields.io/badge/EXPLORAR_REPOSIT%C3%93RIO-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/governanca-e-processos-ti)
+
+[![Ver roadmap](https://img.shields.io/badge/VER_ROADMAP-0F766E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/admjcardozo/governanca-e-processos-ti/blob/main/02-roadmap/roadmap-fases-marcos.md)
 
 ### 2. Guia Técnico de Implementação do SGSI — ISO/IEC 27001:2022
 
@@ -46,7 +48,9 @@ Guia técnico autoral para apoiar o planejamento, a implementação, a operaçã
 
 **Versão publicada:** `v1.0.0` — primeira edição consolidada.
 
-**[Acessar o guia técnico e navegar pelos documentos →](https://github.com/admjcardozo/guia-implementacao-sgsi-iso27001)** · [Ver release v1.0.0](https://github.com/admjcardozo/guia-implementacao-sgsi-iso27001/releases/tag/v1.0.0)
+[![Acessar guia técnico](https://img.shields.io/badge/ACESSAR_GUIA_T%C3%89CNICO-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/guia-implementacao-sgsi-iso27001)
+
+[![Ver release v1.0.0](https://img.shields.io/badge/VER_RELEASE_v1.0.0-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/guia-implementacao-sgsi-iso27001/releases/tag/v1.0.0)
 
 > **Nota sobre os projetos:** ambos são iniciativas autorais de caráter conceitual, técnico e educacional. A publicação dos artefatos não constitui evidência de implantação em uma organização real, eficácia de controles, conformidade integral ou certificação.
 
