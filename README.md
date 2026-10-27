@@ -1,66 +1,76 @@
 # José Eduardo Moura Cardozo
 
-Portfólio de projetos autorais, modelos conceituais e documentação técnica voltados à estruturação de práticas de governança, gestão de serviços, riscos, controles, compliance e melhoria contínua em Tecnologia da Informação.
+**Governança de TI | Operações e Serviços de TI | GRC | Segurança da Informação**
+
+Portfólio de projetos autorais e documentação técnica voltados à estruturação de governança, gestão de serviços, riscos, controles, compliance e melhoria contínua em Tecnologia da Informação.
 
 ---
 
-# Projeto em destaque
+## Projetos em destaque
 
-## Programa Integrado de Governança, Serviços e Segurança de TI
+Dois projetos complementares que demonstram a aplicação estruturada de conhecimentos em governança, processos, gestão de riscos e segurança da informação.
 
-**SGS / SGSI · Projeto autoral e conceitual**
+### 1. Programa Integrado de Governança, Serviços e Segurança de TI
 
-Uma proposta integrada para estruturar práticas de governança de TI, gestão de serviços e segurança da informação, conectando arquitetura, processos, riscos, controles, indicadores e planejamento de implantação.
+**Governança de TI · Gestão de Serviços · Processos · Indicadores**
 
-### Visão geral do projeto
+Modelo conceitual que integra estratégia, operação, riscos, compliance e melhoria contínua em uma arquitetura de referência adaptável a organizações de diferentes portes e níveis de maturidade.
 
-O projeto organiza um modelo de referência que pode ser adaptado a organizações de diferentes portes e níveis de maturidade, considerando suas necessidades, prioridades e restrições.
+**Principais entregáveis**
+- Arquitetura integrada e modelo de governança.
+- Roadmap de implantação organizado em ondas e *Quality Gates*.
+- Estruturação de dez processos de governança, serviços e segurança de TI.
+- Modelos de riscos, responsabilidades e controles internos.
+- Catálogo de indicadores para acompanhamento executivo e operacional.
+- Documentação de referência organizada por domínios.
 
-### Escopo e entregáveis
+**[Acessar o repositório e explorar a documentação →](https://github.com/admjcardozo/governanca-e-processos-ti)**
 
-| Domínio | Conteúdo |
-|---|---|
-| Arquitetura e governança | Arquitetura integrada e modelo de governança |
-| Planejamento | Roadmap de implantação, ondas e Quality Gates |
-| Processos de TI | Estruturação de dez processos |
-| Riscos e controles | Modelo de governança, riscos e controles internos |
-| Indicadores | Catálogo de indicadores de desempenho |
-| Documentação | Biblioteca central de documentos de referência |
+### 2. Guia Técnico de Implementação do SGSI — ISO/IEC 27001:2022
 
-### Acesse o projeto
+**Segurança da Informação · Gestão de Riscos · Controles · Auditoria**
 
-**[→ EXPLORAR O REPOSITÓRIO SGS / SGSI NO GITHUB](https://github.com/admjcardozo/governanca-e-processos-ti)**
+Guia técnico autoral para apoiar o planejamento, a implementação, a operação, a avaliação e a melhoria de um Sistema de Gestão de Segurança da Informação (SGSI), com referência principal na ISO/IEC 27001:2022.
 
-> **Natureza do projeto:** iniciativa autoral e conceitual desenvolvida para demonstrar conhecimento, organização documental e estruturação metodológica. Não representa declaração de implantação ou certificação em uma organização real.
+**Principais entregáveis**
+- Documentação estruturada em 17 áreas temáticas.
+- Metodologia de gestão e tratamento de riscos de Segurança da Informação.
+- Orientações sobre Declaração de Aplicabilidade (*SoA*) e controles de segurança.
+- Diretrizes para políticas, procedimentos, monitoramento e auditoria interna.
+- Biblioteca com 17 modelos de documentos, registros e instrumentos de apoio.
+- Referências técnicas, normativas e glossário.
+
+**Versão publicada:** `v1.0.0` — primeira edição consolidada.
+
+**[Acessar o guia técnico e navegar pelos documentos →](https://github.com/admjcardozo/guia-implementacao-sgsi-iso27001)** · [Ver release v1.0.0](https://github.com/admjcardozo/guia-implementacao-sgsi-iso27001/releases/tag/v1.0.0)
+
+> **Nota sobre os projetos:** ambos são iniciativas autorais de caráter conceitual, técnico e educacional. A publicação dos artefatos não constitui evidência de implantação em uma organização real, eficácia de controles, conformidade integral ou certificação.
 
 ---
 
 ## Áreas de conhecimento
 
-### Governança, riscos e compliance
+**Governança, riscos e compliance (GRC)**
 - Governança corporativa e de TI.
-- Gestão de riscos e controles internos.
-- Compliance e conformidade.
-- Estruturação de modelos de governança.
+- Gestão de riscos, controles internos e compliance.
+- Estruturação de modelos de governança e responsabilidades.
 
-### Segurança da informação
-- Sistemas de gestão de segurança da informação.
-- Implementação de controles de segurança.
-- Auditoria e avaliação de controles.
-- Continuidade e proteção dos serviços de TI.
+**Segurança da informação**
+- Sistemas de Gestão de Segurança da Informação (SGSI).
+- Gestão de riscos e controles de segurança.
+- Auditoria, continuidade e proteção dos serviços de TI.
 
-### Gestão de serviços e processos
-- ITIL e gestão de serviços de TI.
-- Gestão de incidentes, problemas e mudanças.
-- Gestão de níveis de serviço e catálogo de serviços.
+**Gestão de serviços e operações**
+- Gestão de serviços de TI e práticas de ITIL.
+- Incidentes, problemas, mudanças e níveis de serviço.
 - Gestão de ativos, fornecedores, demanda e capacidade.
 - Padronização de processos e melhoria contínua.
 
-### Desempenho e tecnologias emergentes
+**Desempenho, dados e tecnologias**
 - Indicadores de desempenho e KPIs.
 - Gestão por processos e ciclo PDCA.
-- Ciência de dados e inteligência artificial.
-- Governança de IA, cloud e segurança digital.
+- Ciência de dados, inteligência artificial e cloud.
+- Governança de IA e segurança digital.
 
 ---
 
@@ -98,19 +108,19 @@ O projeto organiza um modelo de referência que pode ser adaptado a organizaçõ
 
 ## Cursos e capacitações
 
-### Segurança, riscos e compliance
+**Segurança, riscos e compliance**
 - Cloud Security Lead Implementer ISO/IEC 27017 & 27018 — TIExames.
 - EXIN ISMP — Information Security Management Professional based on ISO 27001.
 - EXIN ISFS — Information Security Foundation.
 - Auditor Interno da ISO 9001:2026 — TIExames.
 
-### Gestão de serviços, processos e métodos ágeis
+**Gestão de serviços, processos e métodos ágeis**
 - EXIN / BCS Business Analysis Foundation — Análise de Negócios.
 - EXIN Agile Scrum Foundation.
 - Lean IT Foundation — EXIN / LITA / TIExames.
 - IT Service Management Foundation based on ISO/IEC 20000 — EXIN / TIExames.
 
-### Dados, plataformas e inteligência artificial
+**Dados, plataformas e inteligência artificial**
 - Microsoft Learn: Power BI, Microsoft Fabric e IA no Azure.
 
 ---
@@ -129,11 +139,10 @@ O projeto organiza um modelo de referência que pode ser adaptado a organizaçõ
 
 Este perfil reúne projetos autorais, modelos conceituais e documentação técnica relacionados à governança de TI, gestão de serviços, riscos, controles, segurança da informação e melhoria contínua.
 
-O conteúdo é desenvolvido progressivamente, com foco em:
-
+Os projetos têm como foco:
 - Organização e clareza documental.
-- Estruturação metodológica.
-- Rastreabilidade de informações.
-- Planejamento e integração de processos.
-- Demonstração prática de conhecimentos por meio de projetos documentados.
+- Estruturação metodológica e integração entre domínios.
+- Rastreabilidade de informações e responsabilidades.
+- Planejamento, processos, indicadores e melhoria contínua.
+- Demonstração de conhecimento por meio de entregáveis documentados.
 
