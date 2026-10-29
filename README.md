@@ -8,7 +8,7 @@ Portfólio de projetos autorais e documentação técnica voltados à estrutura�
 
 ## Projetos em destaque
 
-Dois projetos complementares que demonstram a aplicação estruturada de conhecimentos em governança, processos, gestão de riscos e segurança da informação.
+Três projetos complementares que demonstram a aplicação estruturada de conhecimentos em governança, processos, gestão de riscos, segurança da informação e governança de inteligência artificial.
 
 ### 1. Programa Integrado de Governança, Serviços e Segurança de TI
 
@@ -34,7 +34,7 @@ Modelo conceitual que integra estratégia, operação, riscos, compliance e melh
 
 [![Ver release v1.0.0](https://img.shields.io/badge/VER_RELEASE_v1.0.0-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/governanca-e-processos-ti/releases/tag/v1.0.0)
 
-### 3. Projeto de Implementação do Sistema de Gestão de Inteligência Artificial (SGIA) — ISO/IEC 42001:2023
+### 2. Projeto de Implementação do Sistema de Gestão de Inteligência Artificial (SGIA) — ISO/IEC 42001:2023
 
 ![Infográfico do Projeto de Implementação do SGIA](https://raw.githubusercontent.com/admjcardozo/projeto-sgia-publico/main/infografico-geral-sgia.png)
 
@@ -50,11 +50,13 @@ Projeto conceitual e hipotético que estrutura uma abordagem integrada para plan
 - Estrutura de avaliação de desempenho, auditoria e melhoria contínua.
 - Apresentação pública seletiva, com limites de escopo e interpretação explicitados.
 
+![Versão do projeto](https://img.shields.io/badge/vers%C3%A3o-1.0-0F766E?style=for-the-badge)
+
 **Versão do projeto:** `1.0` — apresentação pública seletiva.
 
 [![Acessar projeto SGIA](https://img.shields.io/badge/ACESSAR_PROJETO_SGIA-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/projeto-sgia-publico)
 
-### 2. Guia Técnico de Implementação do SGSI — ISO/IEC 27001:2022
+### 3. Guia Técnico de Implementação do SGSI — ISO/IEC 27001:2022
 
 ![Capa do guia técnico de implementação do SGSI](https://raw.githubusercontent.com/admjcardozo/guia-implementacao-sgsi-iso27001/main/assets/capa-projeto.svg)
 
