@@ -34,6 +34,26 @@ Modelo conceitual que integra estratégia, operação, riscos, compliance e melh
 
 [![Ver release v1.0.0](https://img.shields.io/badge/VER_RELEASE_v1.0.0-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/governanca-e-processos-ti/releases/tag/v1.0.0)
 
+### 3. Projeto de Implementação do Sistema de Gestão de Inteligência Artificial (SGIA) — ISO/IEC 42001:2023
+
+![Infográfico do Projeto de Implementação do SGIA](https://raw.githubusercontent.com/admjcardozo/projeto-sgia-publico/main/infografico-geral-sgia.png)
+
+**Governança de IA · Gestão de Riscos e Impactos · Ciclo de Vida · Segurança · Melhoria Contínua**
+
+Projeto conceitual e hipotético que estrutura uma abordagem integrada para planejar a implementação de um Sistema de Gestão de Inteligência Artificial (SGIA), tendo a ISO/IEC 42001:2023 como referência central e considerando práticas complementares de governança, gestão de riscos, ciclo de vida, dados, transparência e supervisão humana.
+
+**Principais componentes**
+- Arquitetura metodológica organizada em dez módulos (M01–M10).
+- Integração entre governança, riscos e impactos de IA.
+- Orientações conceituais para ciclo de vida, dados, transparência e supervisão humana.
+- Articulação de segurança da informação, privacidade e gestão de terceiros.
+- Estrutura de avaliação de desempenho, auditoria e melhoria contínua.
+- Apresentação pública seletiva, com limites de escopo e interpretação explicitados.
+
+**Versão do projeto:** `1.0` — apresentação pública seletiva.
+
+[![Acessar projeto SGIA](https://img.shields.io/badge/ACESSAR_PROJETO_SGIA-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/projeto-sgia-publico)
+
 ### 2. Guia Técnico de Implementação do SGSI — ISO/IEC 27001:2022
 
 ![Capa do guia técnico de implementação do SGSI](https://raw.githubusercontent.com/admjcardozo/guia-implementacao-sgsi-iso27001/main/assets/capa-projeto.svg)
@@ -56,7 +76,7 @@ Guia técnico autoral para apoiar o planejamento, a implementação, a operaçã
 
 [![Ver release v1.0.0](https://img.shields.io/badge/VER_RELEASE_v1.0.0-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/admjcardozo/guia-implementacao-sgsi-iso27001/releases/tag/v1.0.0)
 
-> **Nota sobre os projetos:** ambos são iniciativas autorais de caráter conceitual, técnico e educacional. A publicação dos artefatos não constitui evidência de implantação em uma organização real, eficácia de controles, conformidade integral ou certificação.
+> **Nota sobre os projetos:** os repositórios apresentam iniciativas técnicas e conceituais. O projeto SGIA é hipotético e não representa implantação em organização real. A publicação dos artefatos não constitui evidência de execução, eficácia de controles, conformidade integral ou certificação.
 
 ---
 
