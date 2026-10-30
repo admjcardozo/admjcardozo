@@ -2,13 +2,13 @@
 
 **Governança de TI | Operações e Serviços de TI | GRC | Segurança da Informação**
 
-Portfólio de projetos autorais e documentação técnica voltados à estruturação de governança, gestão de serviços, riscos, controles, compliance e melhoria contínua em Tecnologia da Informação.
+Reúno neste perfil projetos e documentos técnicos que desenvolvi para organizar conhecimentos e estruturar modelos de governança, gestão de serviços, riscos, controles e segurança da informação. São trabalhos em que conecto referências e métodos a processos, instrumentos de gestão e formas de acompanhamento.
 
 ---
 
 ## Projetos em destaque
 
-Três projetos complementares que demonstram a aplicação estruturada de conhecimentos em governança, processos, gestão de riscos, segurança da informação e governança de inteligência artificial.
+Organizei os projetos em três frentes que se complementam: governança e serviços de TI, gestão de segurança da informação e governança de inteligência artificial.
 
 ### 1. Programa Integrado de Governança, Serviços e Segurança de TI
 
@@ -16,7 +16,7 @@ Três projetos complementares que demonstram a aplicação estruturada de conhec
 
 **Governança de TI · Gestão de Serviços · Processos · Indicadores**
 
-Modelo conceitual que integra estratégia, operação, riscos, compliance e melhoria contínua em uma arquitetura de referência adaptável a organizações de diferentes portes e níveis de maturidade.
+Estruturei o programa em dez processos interdependentes para aproximar governança, operação, riscos, compliance e melhoria contínua. O modelo foi pensado como referência adaptável a diferentes contextos organizacionais.
 
 **Principais entregáveis**
 - Arquitetura integrada e modelo de governança.
@@ -40,7 +40,7 @@ Modelo conceitual que integra estratégia, operação, riscos, compliance e melh
 
 **Governança de IA · Gestão de Riscos e Impactos · Ciclo de Vida · Segurança · Melhoria Contínua**
 
-Projeto conceitual e hipotético que estrutura uma abordagem integrada para planejar a implementação de um Sistema de Gestão de Inteligência Artificial (SGIA), tendo a ISO/IEC 42001:2023 como referência central e considerando práticas complementares de governança, gestão de riscos, ciclo de vida, dados, transparência e supervisão humana.
+Neste projeto, organizei uma abordagem conceitual e hipotética para planejar um Sistema de Gestão de Inteligência Artificial (SGIA). A ISO/IEC 42001:2023 é a referência central; os módulos conectam governança, riscos e impactos, ciclo de vida, dados, transparência, supervisão humana e segurança.
 
 **Principais componentes**
 - Arquitetura metodológica organizada em dez módulos (M01–M10).
@@ -62,7 +62,7 @@ Projeto conceitual e hipotético que estrutura uma abordagem integrada para plan
 
 **Segurança da Informação · Gestão de Riscos · Controles · Auditoria**
 
-Guia técnico autoral para apoiar o planejamento, a implementação, a operação, a avaliação e a melhoria de um Sistema de Gestão de Segurança da Informação (SGSI), com referência principal na ISO/IEC 27001:2022.
+Desenvolvi este guia para organizar o trabalho de planejamento, implementação, operação, avaliação e melhoria de um Sistema de Gestão de Segurança da Informação (SGSI), tomando a ISO/IEC 27001:2022 como referência principal.
 
 **Principais entregáveis**
 - Documentação estruturada em 17 áreas temáticas.
@@ -171,12 +171,13 @@ Guia técnico autoral para apoiar o planejamento, a implementação, a operaçã
 
 ## Sobre este portfólio
 
-Este perfil reúne projetos autorais, modelos conceituais e documentação técnica relacionados à governança de TI, gestão de serviços, riscos, controles, segurança da informação e melhoria contínua.
+Os projetos deste perfil registram como estudo, organizo e documento soluções para problemas recorrentes de gestão de TI. Procuro deixar claras as escolhas metodológicas, as relações entre os temas e a forma como cada proposta poderia ser aplicada.
 
-Os projetos têm como foco:
-- Organização e clareza documental.
-- Estruturação metodológica e integração entre domínios.
-- Rastreabilidade de informações e responsabilidades.
-- Planejamento, processos, indicadores e melhoria contínua.
-- Demonstração de conhecimento por meio de entregáveis documentados.
+O foco está em:
+- Transformar referências técnicas em estruturas de trabalho compreensíveis.
+- Relacionar processos, riscos, controles e responsabilidades.
+- Organizar indicadores e mecanismos de acompanhamento.
+- Documentar premissas, limites e decisões de projeto.
+
+Os repositórios são trabalhos conceituais. Não representam, por si só, implantações realizadas em organizações reais.
 
